@@ -3,13 +3,27 @@ import { useNavigate } from 'react-router-dom'
 import { PixelButton } from '../components/PixelButton'
 import { copy } from '../config/copy'
 import { routes } from '../config/navigation'
-import { mockGames } from '../data/mockGames'
-
-const game = mockGames[0]
+import { useApiConfig } from '../context/apiConfigContext'
+import { usePlaybackSession } from '../context/playbackSessionContext'
 
 export function GamePage() {
   const navigate = useNavigate()
   const [playing, setPlaying] = useState(false)
+  const { config, isConfigured } = useApiConfig()
+  const { gameResult: game, userQuery, beginSearch, loadMockResult } = usePlaybackSession()
+
+  function playGame() {
+    setPlaying(true)
+    if (/^https?:\/\//i.test(game.url)) {
+      window.open(game.url, '_blank', 'noopener,noreferrer')
+    }
+  }
+
+  function tryAnother() {
+    if (isConfigured) beginSearch(userQuery, config)
+    else loadMockResult()
+    navigate(routes.searching)
+  }
 
   return (
     <main className="screen game-screen">
@@ -51,10 +65,10 @@ export function GamePage() {
             </div>
           </dl>
           <div className="game-card__actions">
-            <PixelButton variant="selected" onClick={() => setPlaying((value) => !value)}>
-              {playing ? copy.game.pause : copy.game.play}
+            <PixelButton variant="selected" onClick={playGame}>
+              {playing ? copy.game.playing : copy.game.play}
             </PixelButton>
-            <PixelButton onClick={() => navigate(routes.searching)}>
+            <PixelButton onClick={tryAnother}>
               {copy.game.tryAnother}
             </PixelButton>
             <PixelButton variant="danger" onClick={() => navigate(routes.end)}>

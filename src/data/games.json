@@ -1,0 +1,1898 @@
+[
+  {
+    "name": "Prism Match 3D",
+    "category": "益智",
+    "description": "旋转和观察3D方块并寻找匹配目标的休闲益智游戏，节奏轻松，适合短时间动脑。",
+    "url": "https://www.gamepix.com/play/prism-match-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Twin Peeks",
+    "category": "益智",
+    "description": "经典找不同游戏，在两张相似图片中寻找细节差异，适合轻度专注和休闲游玩。",
+    "url": "https://www.gamepix.com/play/twin-peeks",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Merge Royal",
+    "category": "益智",
+    "description": "融合2048和纸牌玩法的数字合成游戏，通过不断合并相同卡牌获得更高数字。",
+    "url": "https://www.gamepix.com/play/merge-royal",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Match Triple 3D",
+    "category": "益智",
+    "description": "从大量3D物体中寻找三个相同物品完成消除，规则简单但需要观察力。",
+    "url": "https://www.gamepix.com/play/match-triple-3d-matching-tile",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Duo Match 3D",
+    "category": "益智",
+    "description": "在3D物品中快速寻找匹配对象的休闲配对游戏，适合碎片时间游玩。",
+    "url": "https://www.gamepix.com/play/duo-match-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Triple Match 3D",
+    "category": "益智",
+    "description": "点击并凑齐三个相同物品进行消除，在有限空间和时间内完成关卡。",
+    "url": "https://www.gamepix.com/play/triple-match-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Link All",
+    "category": "益智",
+    "description": "通过连接元素完成关卡的逻辑益智游戏，操作简单，适合喜欢解谜的玩家。",
+    "url": "https://www.gamepix.com/play/link-all",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bird Sort Color Puzzle",
+    "category": "益智",
+    "description": "按照颜色给小鸟分类的排序游戏，通过移动小鸟让相同颜色聚集在一起。",
+    "url": "https://www.gamepix.com/play/bird-sort-color-puzzle-game",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Car Escape Traffic Puzzle",
+    "category": "益智",
+    "description": "移动拥堵的汽车并清出道路，通过规划移动顺序解决越来越复杂的交通谜题。",
+    "url": "https://www.gamepix.com/play/car-escape-traffic-puzzle-game",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Pipes Flood Puzzle",
+    "category": "益智",
+    "description": "旋转和连接不同管道，让正确颜色的管线连通，考验空间推理能力。",
+    "url": "https://www.gamepix.com/play/pipes-flood-puzzle",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Water Sort Puzzle 2",
+    "category": "益智",
+    "description": "经典倒水分类游戏，将不同颜色的液体逐步整理到各自的容器中。",
+    "url": "https://www.gamepix.com/play/water-sort-puzzle-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Block Blast",
+    "category": "益智",
+    "description": "将不同形状的方块放入棋盘并完成整行消除，规则直接，适合持续刷高分。",
+    "url": "https://www.gamepix.com/play/block-blast-game",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Amazing Word Search",
+    "category": "益智",
+    "description": "在字母矩阵中寻找隐藏单词的经典文字游戏，适合想安静动脑的时候。",
+    "url": "https://www.gamepix.com/play/amazing-word-search",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Protect My Dog",
+    "category": "益智",
+    "description": "用鼠标画出防护线保护小狗免受蜜蜂和陷阱攻击的创意画线解谜游戏。",
+    "url": "https://www.gamepix.com/play/protect-my-dog",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Road Draw",
+    "category": "益智",
+    "description": "通过画出道路帮助汽车抵达终点，把绘画和物理解谜结合在一起。",
+    "url": "https://www.gamepix.com/play/road-draw",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Gravity Circuit",
+    "category": "街机",
+    "description": "控制小球切换重力，在霓虹障碍赛道中不断前进，强调反应速度和节奏感。",
+    "url": "https://www.gamepix.com/play/gravity-circuit",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Twin Dash",
+    "category": "街机",
+    "description": "同时控制两个角色跨越障碍的快速跑酷游戏，需要协调注意力和即时反应。",
+    "url": "https://www.gamepix.com/play/twin-dash",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Frogie - Cross the Roads",
+    "category": "街机",
+    "description": "控制青蛙穿越车辆、铁路和河流等危险区域，玩法类似经典过马路游戏。",
+    "url": "https://www.gamepix.com/play/frogie-cross-the-roads",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Arkanoid",
+    "category": "街机",
+    "description": "经典打砖块玩法，控制挡板反弹小球消灭砖块并收集不同强化效果。",
+    "url": "https://www.gamepix.com/play/arkanoid",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Red Ball 6",
+    "category": "街机",
+    "description": "操纵红色小球滚动、跳跃并躲避障碍，通过一系列物理平台关卡。",
+    "url": "https://www.gamepix.com/play/red-ball-6",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Jelly Bouncer",
+    "category": "街机",
+    "description": "蓄力弹射果冻角色跨越各种机关并抵达终点，轻量又带一点物理挑战。",
+    "url": "https://www.gamepix.com/play/jelly-bouncer",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Sausage Flip",
+    "category": "休闲",
+    "description": "通过拖拽和释放把香肠弹向目标位置的物理小游戏，荒诞轻松且容易上手。",
+    "url": "https://www.gamepix.com/play/sausage-flip",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Sandwich Runner",
+    "category": "休闲",
+    "description": "一路收集食材叠出越来越夸张的三明治，同时躲开坏掉的食物和障碍。",
+    "url": "https://www.gamepix.com/play/sandwich-runner",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Drop People",
+    "category": "休闲",
+    "description": "移动和引导不同颜色的人群进入对应区域，带有简单排序和规划元素。",
+    "url": "https://www.gamepix.com/play/drop-people",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Let Me In",
+    "category": "休闲",
+    "description": "管理公交车站的人流，让乘客及时上车同时避免超载的轻度策略游戏。",
+    "url": "https://www.gamepix.com/play/let-me-in",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "My Arcade Center",
+    "category": "模拟",
+    "description": "经营自己的复古街机厅，购买游戏机、吸引顾客并逐渐扩大游戏中心。",
+    "url": "https://www.gamepix.com/play/my-arcade-center",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Hotel Manager",
+    "category": "模拟",
+    "description": "围绕酒店经营和资源管理展开的轻度模拟游戏，也包含和朋友竞争的玩法。",
+    "url": "https://www.gamepix.com/play/hotel-manager",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Draw Action",
+    "category": "动作",
+    "description": "用鼠标画出不同攻击轨迹，让角色按照你绘制的动作攻击敌人的创意格斗游戏。",
+    "url": "https://www.gamepix.com/play/draw-action",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Will Hero Online",
+    "category": "动作",
+    "description": "在像素世界中跳跃前进并使用不同武器击败怪物，操作简单、战斗节奏快。",
+    "url": "https://www.gamepix.com/play/will-hero-online",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Agent Action",
+    "category": "动作",
+    "description": "控制特工一边奔跑一边射击怪物和躲避障碍，主打快速爽感和即时反应。",
+    "url": "https://www.gamepix.com/play/agent-action",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Road Fury",
+    "category": "动作",
+    "description": "驾驶汽车高速前进并自动射击敌人，将赛车、射击和无尽闯关结合起来。",
+    "url": "https://www.gamepix.com/play/road-fury",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Zombie Waves",
+    "category": "动作",
+    "description": "抵御持续袭来的僵尸，同时强化武器和角色能力的生存射击游戏。",
+    "url": "https://www.gamepix.com/play/zombie-waves",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Stickman Archer",
+    "category": "动作",
+    "description": "控制火柴人弓箭手调整角度和力度射击敌人，核心体验是瞄准和快速击杀。",
+    "url": "https://www.gamepix.com/play/stickman-archer",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Only Up!",
+    "category": "动作",
+    "description": "不断向上跳跃和攀爬的平台跑酷游戏，一旦失误就可能跌落很远。",
+    "url": "https://www.gamepix.com/play/only-up",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Super Plumber Run",
+    "category": "动作",
+    "description": "带有经典复古平台游戏气质的横版跑酷，在关卡中跳跃、躲避并不断前进。",
+    "url": "https://www.gamepix.com/play/super-plumber-run",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Prince of Persia",
+    "category": "动作",
+    "description": "经典复古平台冒险，通过精准移动、跳跃和躲避陷阱探索危险地牢。",
+    "url": "https://www.gamepix.com/play/prince-of-persia",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Noob vs Pro",
+    "category": "冒险",
+    "description": "在像素世界中探索并对抗僵尸，可以切换角色，包含战斗、Boss和合作元素。",
+    "url": "https://www.gamepix.com/play/noob-vs-pro",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Playing with Fire",
+    "category": "双人",
+    "description": "在迷宫中放置炸弹炸开障碍并击败对手，玩法类似经典炸弹人，支持双人对战。",
+    "url": "https://www.gamepix.com/play/playing-with-fire",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Color Warz",
+    "category": "双人",
+    "description": "两方争夺地图方块并用自己的颜色占领区域，规则简单但具有直接对抗性。",
+    "url": "https://www.gamepix.com/play/color-wars",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Master Checkers Multiplayer",
+    "category": "棋牌",
+    "description": "经典西洋跳棋数字版，可和电脑、在线玩家或同设备朋友进行对局。",
+    "url": "https://www.gamepix.com/play/master-checkers-multiplayer",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Ludo Offline",
+    "category": "棋牌",
+    "description": "经典飞行棋类桌游，通过掷骰子和策略移动棋子与电脑进行较量。",
+    "url": "https://www.gamepix.com/play/ludo-offline",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cribbage",
+    "category": "棋牌",
+    "description": "经典双人纸牌游戏的浏览器版本，通过组合牌型和计算得分争取率先获胜。",
+    "url": "https://www.gamepix.com/play/cribbage",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Scopa",
+    "category": "棋牌",
+    "description": "意大利经典纸牌游戏，通过计算牌面价值和组合捕获桌上的牌获得分数。",
+    "url": "https://www.gamepix.com/play/scopa",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Track Racer IO",
+    "category": "赛车",
+    "description": "专注圈速的轻量赛车游戏，在不同路面上寻找最佳路线并不断刷新自己的记录。",
+    "url": "https://www.gamepix.com/play/track-racer-io",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Drag Racing Club",
+    "category": "赛车",
+    "description": "强调换挡时机的直线加速赛车，通过比赛赚钱并升级或购买更快的车辆。",
+    "url": "https://www.gamepix.com/play/drag-racing-club",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Grand Extreme Racing",
+    "category": "赛车",
+    "description": "3D竞速游戏，在不同赛道驾驶高性能赛车并参加冠军赛和正面对决。",
+    "url": "https://www.gamepix.com/play/grand-extreme-racing",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Mini Car Racing",
+    "category": "赛车",
+    "description": "驾驶迷你赛车穿越不同赛道，躲避障碍、积累分数并升级车辆性能。",
+    "url": "https://www.gamepix.com/play/mini-car",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Pato VS Cops",
+    "category": "赛车",
+    "description": "在城市道路中高速逃离警察追捕，躲避车辆并尽可能延长自己的生存时间。",
+    "url": "https://www.gamepix.com/play/pato-vs-cops",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Table Tennis World Tour",
+    "category": "体育",
+    "description": "3D乒乓球游戏，通过控制球拍方向和速度打出不同旋转，与各国AI选手比赛。",
+    "url": "https://www.gamepix.com/play/table-tennis-world-tour",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Beach Bowling 3D",
+    "category": "体育",
+    "description": "轻松的3D保龄球游戏，在海滩主题球道上调整方向和旋转击倒球瓶。",
+    "url": "https://www.gamepix.com/play/beach-bowling-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Master Scavenger",
+    "category": "动作",
+    "description": "操控角色在废料场收集物品，用磁铁寻找高价值资源并不断解锁新区域。",
+    "url": "https://www.gamepix.com/play/master-scavenger",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Orbit Dodge",
+    "category": "街机",
+    "description": "单键控制轨道方向，快速躲避不断袭来的障碍，适合短时间挑战反应力。",
+    "url": "https://www.gamepix.com/play/orbit-dodge",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Machine Eater",
+    "category": "策略",
+    "description": "收集资源扩建战舰，布置不同设施并消灭雷达中发现的敌人。",
+    "url": "https://www.gamepix.com/play/machine-eater",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Merge Zodiac",
+    "category": "益智",
+    "description": "通过不断合并相同元素解锁新的星座主题内容，节奏轻松简单。",
+    "url": "https://www.gamepix.com/play/merge-zodiac",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Crystal Cave Miner",
+    "category": "休闲",
+    "description": "进入洞穴开采水晶和资源，不断深入矿区并提升自己的采矿能力。",
+    "url": "https://www.gamepix.com/play/crystal-cave-miner",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Parcel Panic Warehouse Rush",
+    "category": "街机",
+    "description": "在繁忙仓库中快速处理包裹和任务，考验操作速度与临场反应。",
+    "url": "https://www.gamepix.com/play/parcel-panic-warehouse-rush",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Hanafuda Koi Koi",
+    "category": "棋牌",
+    "description": "传统日本花札纸牌游戏，需要组合牌型并判断继续得分还是及时收手。",
+    "url": "https://www.gamepix.com/play/hanafuda-koi-koi",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Red Mahjong",
+    "category": "棋牌",
+    "description": "经典麻将消除玩法，通过匹配可用麻将牌逐渐清空整个牌面。",
+    "url": "https://www.gamepix.com/play/red-mahjong",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Lovely Cat Pet Life2",
+    "category": "模拟",
+    "description": "照顾可爱猫咪并体验轻松宠物生活，适合想放空和治愈的时候。",
+    "url": "https://www.gamepix.com/play/lovely-cat-pet-life2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Super Slime: Black Hole",
+    "category": "休闲",
+    "description": "控制不断成长的史莱姆吞噬场景中的物体，主打简单直接的成长爽感。",
+    "url": "https://www.gamepix.com/play/super-slime-black-hole",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Girl Dream House DIY Fun",
+    "category": "模拟",
+    "description": "自由设计和装饰梦想房屋，通过不同家具和风格打造自己的空间。",
+    "url": "https://www.gamepix.com/play/girl-dream-house-diy-fun",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Brush Cat Challenge",
+    "category": "休闲",
+    "description": "围绕可爱猫咪展开的轻量点击和反应小游戏，规则简单容易上手。",
+    "url": "https://www.gamepix.com/play/brush-cat-challenge",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Lucy Makeup and Dress up",
+    "category": "换装",
+    "description": "为角色选择妆容、服饰和造型，适合偏创意和轻松体验的玩家。",
+    "url": "https://www.gamepix.com/play/lucy-makeup-and-dress-up",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bubble Burst Challenge",
+    "category": "休闲",
+    "description": "快速点击并消除泡泡，在简单规则下挑战速度和更高分数。",
+    "url": "https://www.gamepix.com/play/bubble-burst-challenge",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Chain Reaction Grid",
+    "category": "益智",
+    "description": "在网格中触发连锁反应，通过有限操作让更多元素依次爆发。",
+    "url": "https://www.gamepix.com/play/chain-reaction-grid",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Color Sorting",
+    "category": "益智",
+    "description": "按照颜色整理不同物体的排序小游戏，适合放松和轻度思考。",
+    "url": "https://www.gamepix.com/play/color-sorting",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Gem Zones",
+    "category": "益智",
+    "description": "围绕宝石和区域规划展开的益智玩法，需要观察并寻找最佳操作。",
+    "url": "https://www.gamepix.com/play/gem-zones",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Sun & Moon",
+    "category": "益智",
+    "description": "围绕太阳与月亮元素设计的逻辑谜题，画面简洁且偏轻度烧脑。",
+    "url": "https://www.gamepix.com/play/sun-moon",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "One Line Grid",
+    "category": "益智",
+    "description": "尝试用一条连续路线完成整个网格，规则极简但逐渐考验规划能力。",
+    "url": "https://www.gamepix.com/play/one-line-grid",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Near Miss",
+    "category": "街机",
+    "description": "依靠精准操作从障碍附近惊险擦过，追求连续操作和高分。",
+    "url": "https://www.gamepix.com/play/near-miss",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Star Collector",
+    "category": "街机",
+    "description": "移动角色收集关卡中的星星，同时避开障碍和危险区域。",
+    "url": "https://www.gamepix.com/play/star-collector",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "My Restaurant",
+    "category": "模拟",
+    "description": "经营自己的餐厅，服务顾客、制作食物并逐步扩大餐饮生意。",
+    "url": "https://www.gamepix.com/play/my-restaurant",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Chaos Dolls",
+    "category": "动作",
+    "description": "围绕布娃娃物理效果展开的混乱动作游戏，主打搞笑碰撞和破坏。",
+    "url": "https://www.gamepix.com/play/chaos-dolls",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Color Switch Blast",
+    "category": "街机",
+    "description": "根据颜色快速切换和躲避障碍，节奏快，适合挑战即时反应。",
+    "url": "https://www.gamepix.com/play/color-switch-blast",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bang! Bang! Barrel!",
+    "category": "动作",
+    "description": "围绕木桶、射击和爆炸展开的爽快小游戏，适合想快速发泄的时候。",
+    "url": "https://www.gamepix.com/play/bang-bang-barrel",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Hit Tank Battle",
+    "category": "动作",
+    "description": "驾驶坦克与敌方单位战斗，利用射击和移动完成简单直接的对抗。",
+    "url": "https://www.gamepix.com/play/hit-tank-battle",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cute Farm Match Puzzle",
+    "category": "益智",
+    "description": "农场主题的匹配消除小游戏，画风可爱，适合轻松休闲。",
+    "url": "https://www.gamepix.com/play/cute-farm-match-puzzle",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Tile Family: Match Puzzle",
+    "category": "益智",
+    "description": "寻找并匹配相同图块完成消除，适合短时间专注和放松。",
+    "url": "https://www.gamepix.com/play/tile-family-match-puzzle",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "My Army Base",
+    "category": "模拟",
+    "description": "建设和扩张自己的军事基地，管理设施和单位并逐步提高实力。",
+    "url": "https://www.gamepix.com/play/my-army-base",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Obby Keyboard Escape",
+    "category": "跑酷",
+    "description": "控制角色在障碍地图中逃脱，需要键盘移动、跳跃和精准操作。",
+    "url": "https://www.gamepix.com/play/obby-keyboard-escape",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Paper Flight Cardboard Skies",
+    "category": "休闲",
+    "description": "操控纸飞机穿越天空和障碍，追求距离和流畅飞行体验。",
+    "url": "https://www.gamepix.com/play/paper-flight-cardboard-skies",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Ram Rush",
+    "category": "街机",
+    "description": "快速冲撞和前进的街机小游戏，强调节奏、躲避和即时反应。",
+    "url": "https://www.gamepix.com/play/ram-rush",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Wolfoo Birthday Pixel Art",
+    "category": "休闲",
+    "description": "生日主题像素填色游戏，根据数字和颜色完成可爱的像素画。",
+    "url": "https://www.gamepix.com/play/wolfoo-birthday-pixel-art",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Street Fist",
+    "category": "格斗",
+    "description": "街头格斗小游戏，使用拳脚攻击敌人，主打简单直接的战斗爽感。",
+    "url": "https://www.gamepix.com/play/street-fist",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dangerous Turn",
+    "category": "街机",
+    "description": "在高速移动中处理危险弯道和障碍，考验反应和操作时机。",
+    "url": "https://www.gamepix.com/play/dangerous-turn",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Endless Golf Tour",
+    "category": "体育",
+    "description": "轻量高尔夫游戏，通过控制力度和方向不断挑战新的球洞。",
+    "url": "https://www.gamepix.com/play/endless-golf-tour",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Thousand Suns",
+    "category": "街机",
+    "description": "科幻风格的快速挑战游戏，在充满光效的场景中进行操作和生存。",
+    "url": "https://www.gamepix.com/play/thousand-suns",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Color War",
+    "category": "策略",
+    "description": "围绕颜色和区域争夺展开对抗，通过占领更多空间赢得比赛。",
+    "url": "https://www.gamepix.com/play/color-war",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Golden Vault Plinko",
+    "category": "休闲",
+    "description": "让小球从钉板落下并尝试获得更高奖励，主要依靠随机性和视觉爽感。",
+    "url": "https://www.gamepix.com/play/golden-vault-plinko",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Block Spark",
+    "category": "益智",
+    "description": "围绕方块组合和消除展开的轻度益智游戏，适合碎片时间。",
+    "url": "https://www.gamepix.com/play/block-spark",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "CountryDraft",
+    "category": "策略",
+    "description": "围绕国家和区域选择展开的轻量策略玩法，需要做出取舍和规划。",
+    "url": "https://www.gamepix.com/play/countrydraft",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Magnet Shift",
+    "category": "益智",
+    "description": "利用磁力方向改变物体运动轨迹，通过控制吸引和排斥完成关卡。",
+    "url": "https://www.gamepix.com/play/magnet-shift",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Ninja Rooftops",
+    "category": "跑酷",
+    "description": "控制忍者在城市屋顶不断奔跑和跳跃，避开障碍并保持节奏。",
+    "url": "https://www.gamepix.com/play/ninja-rooftops",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bug Burrow Wars",
+    "category": "策略",
+    "description": "昆虫主题的地下战争游戏，建设和调配单位与敌人争夺地盘。",
+    "url": "https://www.gamepix.com/play/bug-burrow-wars",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Trivia Quest Royal",
+    "category": "问答",
+    "description": "通过回答不同领域的问题推进挑战，适合喜欢知识问答的玩家。",
+    "url": "https://www.gamepix.com/play/trivia-quest-royal",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Broken Horn",
+    "category": "益智",
+    "description": "通过机关和物理互动帮助角色抵达目标，属于轻量关卡解谜游戏。",
+    "url": "https://www.gamepix.com/play/broken-horn",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Solitaire 8 Collection",
+    "category": "棋牌",
+    "description": "集合多种经典单人纸牌规则，适合想安静玩一局的时候。",
+    "url": "https://www.gamepix.com/play/solitaire-8-collection",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cozy Sort: Theme Collect",
+    "category": "益智",
+    "description": "温馨画风的整理分类游戏，把不同主题物品按照规律完成收集。",
+    "url": "https://www.gamepix.com/play/cozy-sort-theme-collect",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Santa Wood Cutter 2",
+    "category": "街机",
+    "description": "圣诞主题快速砍木游戏，需要不断切换方向避开树枝。",
+    "url": "https://www.gamepix.com/play/santa-wood-cutter-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Skyslime Adventures",
+    "category": "冒险",
+    "description": "控制史莱姆探索天空世界，通过移动和跳跃完成平台冒险。",
+    "url": "https://www.gamepix.com/play/skyslime-adventures",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Jelly Jam",
+    "category": "益智",
+    "description": "果冻主题的轻松消除游戏，通过匹配元素制造连续消除效果。",
+    "url": "https://www.gamepix.com/play/jelly-jam",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Coils",
+    "category": "益智",
+    "description": "围绕线路和环形结构展开的抽象益智游戏，考验空间判断。",
+    "url": "https://www.gamepix.com/play/coils",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bullseye",
+    "category": "街机",
+    "description": "瞄准目标中心完成精准射击，规则直接，适合短局挑战。",
+    "url": "https://www.gamepix.com/play/bullseye",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bolt Sort",
+    "category": "益智",
+    "description": "整理不同颜色和类型的螺栓，将相同元素归类完成关卡。",
+    "url": "https://www.gamepix.com/play/bolt-sort",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Football Club Tycoon",
+    "category": "模拟",
+    "description": "经营自己的足球俱乐部，管理发展和资源并逐渐壮大球队。",
+    "url": "https://www.gamepix.com/play/football-club-tycoon",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Spin To Wind",
+    "category": "街机",
+    "description": "通过旋转和时机控制角色或物体移动，适合快速反应挑战。",
+    "url": "https://www.gamepix.com/play/spin-to-wind",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Slotify",
+    "category": "益智",
+    "description": "围绕位置排列和槽位整理展开的轻度益智小游戏。",
+    "url": "https://www.gamepix.com/play/slotify",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Obby: Epic SkatePark",
+    "category": "跑酷",
+    "description": "在大型滑板公园障碍地图中移动和跳跃，挑战连续跑酷路线。",
+    "url": "https://www.gamepix.com/play/obby-epic-skatepark",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Deep Drill Run",
+    "category": "街机",
+    "description": "不断向地下钻探并避开障碍，追求更深距离和更高分数。",
+    "url": "https://www.gamepix.com/play/deep-drill-run",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dominations Idle",
+    "category": "放置",
+    "description": "以文明发展为主题的放置成长游戏，通过积累资源不断扩张势力。",
+    "url": "https://www.gamepix.com/play/dominations-idle",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Super Willie World 2",
+    "category": "冒险",
+    "description": "复古横版平台游戏，在不同关卡中奔跑、跳跃和躲避敌人。",
+    "url": "https://www.gamepix.com/play/super-willie-world-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Padel Clash",
+    "category": "体育",
+    "description": "板式网球竞技游戏，通过移动、击球和判断落点击败对手。",
+    "url": "https://www.gamepix.com/play/padel-clash",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Woods of Nevia: Forest Survival",
+    "category": "生存",
+    "description": "在森林环境中探索、收集和生存，应对敌人与资源压力。",
+    "url": "https://www.gamepix.com/play/woods-of-nevia-forest-survival",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "War of Islands Mine and Craft",
+    "category": "冒险",
+    "description": "在岛屿世界采集资源、建造设施并参与战斗的沙盒冒险。",
+    "url": "https://www.gamepix.com/play/war-of-islands-mine-and-craft",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Tattoo Master 3D: Crazy Art",
+    "category": "模拟",
+    "description": "模拟纹身师完成不同图案，通过绘制和操作制作客人想要的纹身。",
+    "url": "https://www.gamepix.com/play/tattoo-master-3d-crazy-art",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bricks Breaker Crush Quest",
+    "category": "街机",
+    "description": "经典弹球打砖块游戏，计算角度一次击碎尽可能多的砖块。",
+    "url": "https://www.gamepix.com/play/bricks-breaker-crush-quest",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Battleops",
+    "category": "射击",
+    "description": "第一人称射击游戏，在战斗场景中完成任务并消灭敌方单位。",
+    "url": "https://www.gamepix.com/play/battleops",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Fortress of the Wizard",
+    "category": "策略",
+    "description": "魔法题材防御游戏，通过布置和升级能力守住自己的堡垒。",
+    "url": "https://www.gamepix.com/play/fortress-of-the-wizard",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Obby & Dead River",
+    "category": "跑酷",
+    "description": "在危险河流和障碍地图间跳跃前进，强调平台操作和路线判断。",
+    "url": "https://www.gamepix.com/play/obby-dead-river",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dungeon Master - Cult & Craft",
+    "category": "模拟",
+    "description": "经营和发展自己的地下城，招募单位、建设设施并逐步扩张。",
+    "url": "https://www.gamepix.com/play/dungeon-master-cult-craft",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "MineTap Merge Clicker",
+    "category": "放置",
+    "description": "结合挖矿、点击和合成机制，不断获得资源并升级生产效率。",
+    "url": "https://www.gamepix.com/play/minetap-merge-clicker",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Jewels Mystery - Match 3 Puzzle",
+    "category": "益智",
+    "description": "经典三消宝石游戏，通过交换元素完成目标并触发连锁消除。",
+    "url": "https://www.gamepix.com/play/jewels-mystery-match-3-puzzle",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "2048 Cube Merge Block",
+    "category": "益智",
+    "description": "把2048数字合成与3D方块结合，不断碰撞相同数字获得更高数值。",
+    "url": "https://www.gamepix.com/play/2048-cube-merge-block",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Thung Thung Sahur - Escape",
+    "category": "逃脱",
+    "description": "带有网络梗元素的追逐逃脱游戏，在场景中寻找路线避开危险角色。",
+    "url": "https://www.gamepix.com/play/thung-thung-sahur-escape",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Magic Finger 3D",
+    "category": "动作",
+    "description": "用魔法手指抓取、移动和投掷场景物体攻击敌人，主打物理爽感。",
+    "url": "https://www.gamepix.com/play/magic-finger-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Toy Space Bricks Breaker",
+    "category": "街机",
+    "description": "太空玩具主题的打砖块小游戏，通过反弹小球清除全部目标。",
+    "url": "https://www.gamepix.com/play/toy-space-bricks-breaker",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Motocross Racing",
+    "category": "赛车",
+    "description": "驾驶越野摩托在复杂地形比赛，通过控制速度和平衡完成赛道。",
+    "url": "https://www.gamepix.com/play/motocross-racing",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Sniper 3D - Gun Shooting",
+    "category": "射击",
+    "description": "使用狙击枪寻找并消灭指定目标，强调瞄准和精准射击。",
+    "url": "https://www.gamepix.com/play/sniper-3d-gun-shooting",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Size Up: Giant Fighter Game",
+    "category": "动作",
+    "description": "不断成长为巨人并与敌人战斗，体验体型升级带来的直接爽感。",
+    "url": "https://www.gamepix.com/play/size-up-giant-fighter-game",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "The Quest Arena",
+    "category": "动作",
+    "description": "进入竞技场与不同敌人战斗，通过持续作战争取生存和胜利。",
+    "url": "https://www.gamepix.com/play/the-quest-arena",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Ragdolf",
+    "category": "体育",
+    "description": "把布娃娃物理和高尔夫结合起来的搞怪小游戏，追求荒诞操作效果。",
+    "url": "https://www.gamepix.com/play/ragdolf",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "House of 1000 Doors: Evil Inside",
+    "category": "解谜",
+    "description": "剧情驱动的隐藏物品与冒险解谜游戏，探索神秘场景寻找线索。",
+    "url": "https://www.gamepix.com/play/house-of-1000-doors-evil-inside",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Golf Orbit",
+    "category": "体育",
+    "description": "把高尔夫球尽可能击向远方甚至飞出地球，玩法简单且夸张。",
+    "url": "https://www.gamepix.com/play/golf-orbit",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dreamland Solitaire: Dark Prophecy Collector's Edition",
+    "category": "棋牌",
+    "description": "奇幻剧情包装的纸牌接龙游戏，在不同关卡完成牌局并推进故事。",
+    "url": "https://www.gamepix.com/play/dreamland-solitaire-dark-prophecy-collectors-edition",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Looking for Aliens Collector's Edition",
+    "category": "解谜",
+    "description": "在充满细节的场景中寻找隐藏外星人和目标物体的观察解谜游戏。",
+    "url": "https://www.gamepix.com/play/looking-for-aliens-collectors-edition",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Beholder 2",
+    "category": "冒险",
+    "description": "反乌托邦背景的剧情选择游戏，在官僚体系中工作、调查并做出道德选择。",
+    "url": "https://www.gamepix.com/play/beholder-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Silhouette Showdown",
+    "category": "益智",
+    "description": "围绕轮廓识别展开的视觉小游戏，需要快速判断目标对应的形状。",
+    "url": "https://www.gamepix.com/play/silhouette-showdown",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Stray Souls: Dollhouse Story",
+    "category": "解谜",
+    "description": "暗黑氛围的隐藏物品冒险，通过调查诡异娃娃屋寻找故事真相。",
+    "url": "https://www.gamepix.com/play/stray-souls-dollhouse-story",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Monster Battlegrounds",
+    "category": "格斗",
+    "description": "控制怪物在竞技场正面对抗，用不同攻击手段击败对手。",
+    "url": "https://www.gamepix.com/play/monster-battlegrounds",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dark Strokes: Sins of the Fathers",
+    "category": "解谜",
+    "description": "带有悬疑剧情的隐藏物品冒险游戏，通过探索和解谜推进故事。",
+    "url": "https://www.gamepix.com/play/dark-strokes-sins-of-the-fathers",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Treasures of Montezuma 3",
+    "category": "益智",
+    "description": "经典高速三消游戏，组合宝石并利用各种能力获得更高分数。",
+    "url": "https://www.gamepix.com/play/treasures-of-montezuma-3",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Zombotron Re-Boot",
+    "category": "动作",
+    "description": "横版射击冒险游戏，在危险星球探索并用各种武器对付僵尸。",
+    "url": "https://www.gamepix.com/play/zombotron-re-boot",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bodybuilder Karate Fighting",
+    "category": "格斗",
+    "description": "操控肌肉角色进行近身格斗，使用拳脚招式击败不同对手。",
+    "url": "https://www.gamepix.com/play/bodybuilder-karate-fighting",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Runic Rampage",
+    "category": "动作",
+    "description": "奇幻动作游戏，挥舞重型武器连续攻击敌人并探索不同区域。",
+    "url": "https://www.gamepix.com/play/runic-rampage",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dash Heroes: Labyrinth",
+    "category": "冒险",
+    "description": "控制英雄探索迷宫、躲避陷阱并完成快节奏的关卡挑战。",
+    "url": "https://www.gamepix.com/play/dash-heroes-labyrinth",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Unbroken Soul",
+    "category": "动作",
+    "description": "像素风横版动作平台游戏，通过跳跃、战斗和探索挑战不同区域。",
+    "url": "https://www.gamepix.com/play/unbroken-soul",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Spider Evolution Runner Game",
+    "category": "跑酷",
+    "description": "控制蜘蛛一路收集和进化，通过选择路线让角色越来越强。",
+    "url": "https://www.gamepix.com/play/spider-evolution-runner-game",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Super Oscar",
+    "category": "冒险",
+    "description": "经典横版闯关游戏，在平台之间跳跃、收集物品并击败敌人。",
+    "url": "https://www.gamepix.com/play/super-oscar",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Rovercraft",
+    "category": "驾驶",
+    "description": "自己组装探测车并驾驶它穿越崎岖星球地形，兼具物理和升级玩法。",
+    "url": "https://www.gamepix.com/play/rovercraft",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Aces of the Luftwaffe Squadron",
+    "category": "射击",
+    "description": "纵向飞行射击游戏，操纵战机面对大量敌机和弹幕。",
+    "url": "https://www.gamepix.com/play/aces-of-the-luftwaffe-squadron",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Jump Up 3D",
+    "category": "街机",
+    "description": "控制角色不断向更高的平台跳跃，强调准确时机和连续操作。",
+    "url": "https://www.gamepix.com/play/jump-up-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Escape From Castle Frankenstein",
+    "category": "冒险",
+    "description": "在怪诞城堡中探索和逃脱，避开障碍并寻找离开的道路。",
+    "url": "https://www.gamepix.com/play/escape-from-castle-frankenstein",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Clouds and Sheep 2",
+    "category": "模拟",
+    "description": "照顾一群可爱绵羊，为它们提供食物、娱乐和舒适的生活环境。",
+    "url": "https://www.gamepix.com/play/clouds-and-sheep-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Adrenaline Rush - Miami Drive",
+    "category": "赛车",
+    "description": "在迈阿密风格城市中高速驾驶，躲避交通并制造刺激追逐。",
+    "url": "https://www.gamepix.com/play/adrenaline-rush-miami-drive",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Guns'n'Glory Zombies",
+    "category": "策略",
+    "description": "部署角色抵御不断袭来的僵尸群，结合防守、射击和角色能力。",
+    "url": "https://www.gamepix.com/play/guns-n-glory-zombies",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "1942 Pacific Front",
+    "category": "策略",
+    "description": "二战太平洋背景的回合制战争策略游戏，调动不同单位完成战役。",
+    "url": "https://www.gamepix.com/play/1942-pacific-front",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Ninja Hero Cats",
+    "category": "动作",
+    "description": "控制忍者猫团队对抗敌人，结合移动、技能释放和快速战斗。",
+    "url": "https://www.gamepix.com/play/ninja-hero-cats",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Hoop World",
+    "category": "体育",
+    "description": "通过翻转和跳跃把角色送进篮筐的篮球技巧小游戏。",
+    "url": "https://www.gamepix.com/play/hoop-world",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Street Basketball",
+    "category": "体育",
+    "description": "街头篮球投篮挑战，通过把握力度和时机连续命中篮筐。",
+    "url": "https://www.gamepix.com/play/street-basketball",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Super Willie World",
+    "category": "冒险",
+    "description": "复古像素横版平台冒险，通过跳跃和躲避敌人完成关卡。",
+    "url": "https://www.gamepix.com/play/super-willie-world",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Real Drift Racing",
+    "category": "赛车",
+    "description": "专注漂移体验的赛车游戏，在弯道控制车身并积累漂移分数。",
+    "url": "https://www.gamepix.com/play/real-drift-racing",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Faily Skater",
+    "category": "街机",
+    "description": "踩着滑板高速下坡并躲避各种荒诞障碍，事故物理效果非常搞笑。",
+    "url": "https://www.gamepix.com/play/faily-skater",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Deathly Dungeons",
+    "category": "动作",
+    "description": "进入危险地下城与大量怪物战斗，通过升级能力提高生存概率。",
+    "url": "https://www.gamepix.com/play/deathly-dungeons",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Vikings an Archer's Journey",
+    "category": "动作",
+    "description": "维京题材横版冒险，使用弓箭攻击敌人并穿越不同危险区域。",
+    "url": "https://www.gamepix.com/play/vikings-an-archers-journey",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Gangsta Island Crime City",
+    "category": "动作",
+    "description": "开放城市犯罪题材游戏，在岛屿中探索、战斗并完成不同任务。",
+    "url": "https://www.gamepix.com/play/gangsta-island-crime-city",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "MR RACER - Car Racing",
+    "category": "赛车",
+    "description": "高速公路赛车游戏，在车流中超车并挑战不同比赛和车辆。",
+    "url": "https://www.gamepix.com/play/mr-racer-car-racing",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Blocky Dude Gangster Auto City",
+    "category": "动作",
+    "description": "方块风开放城市游戏，可以驾驶车辆、探索地图并参与战斗。",
+    "url": "https://www.gamepix.com/play/blocky-dude-gangster-auto-city",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Demolition Derby Life",
+    "category": "赛车",
+    "description": "驾驶汽车在竞技场互相撞击，目标不是跑得最快而是把别人撞废。",
+    "url": "https://www.gamepix.com/play/demolition-derby-life",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "100 Doors - Escape from Prison",
+    "category": "解谜",
+    "description": "每个牢房都是独立逃脱谜题，需要观察环境、寻找道具并打开下一扇门。",
+    "url": "https://www.gamepix.com/play/100-doors-escape-from-prison",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Red Hands - 2 Player Game",
+    "category": "双人",
+    "description": "经典拍手反应小游戏，两名玩家轮流攻击和躲避，比拼反应速度。",
+    "url": "https://www.gamepix.com/play/red-hands-2-player-game",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Siren Head Nightmare Scary Survival",
+    "category": "恐怖",
+    "description": "在阴暗环境中躲避恐怖怪物并寻找逃生线索的生存游戏。",
+    "url": "https://www.gamepix.com/play/siren-head-nightmare-scary-survival",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Badland",
+    "category": "冒险",
+    "description": "控制黑色生物飞行穿越充满机关的神秘森林，强调物理和节奏。",
+    "url": "https://www.gamepix.com/play/badland",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bomber Friends",
+    "category": "动作",
+    "description": "现代炸弹人玩法，在迷宫里放置炸弹炸开道路并击败其他玩家。",
+    "url": "https://www.gamepix.com/play/bomber-friends",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "1941 Frozen Front",
+    "category": "策略",
+    "description": "二战冰雪战场背景的回合制战争游戏，需要合理调动坦克和步兵。",
+    "url": "https://www.gamepix.com/play/1941-frozen-front",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Guns n Glory Heroes",
+    "category": "策略",
+    "description": "奇幻塔防游戏，控制不同英雄抵挡一波又一波敌人的进攻。",
+    "url": "https://www.gamepix.com/play/guns-n-glory-heroes",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Fractal Combat X",
+    "category": "飞行",
+    "description": "驾驶战斗机进行高速空战，锁定敌机并完成不同作战任务。",
+    "url": "https://www.gamepix.com/play/fractal-combat-x",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "TenTrix",
+    "category": "益智",
+    "description": "把不同形状方块放进10×10棋盘，通过填满整行或整列完成消除。",
+    "url": "https://www.gamepix.com/play/tentrix",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cut The Rope",
+    "category": "益智",
+    "description": "剪断绳子利用重力和机关把糖果送到小怪物嘴里，经典物理解谜。",
+    "url": "https://www.gamepix.com/play/cut-the-rope",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cut The Rope: Time Travel",
+    "category": "益智",
+    "description": "穿越不同历史时代完成剪绳物理解谜，把糖果送给多个角色。",
+    "url": "https://www.gamepix.com/play/cut-the-rope-time-travel",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cut the Rope 2",
+    "category": "益智",
+    "description": "经典剪绳玩法续作，加入更多角色和互动机关解决物理谜题。",
+    "url": "https://www.gamepix.com/play/cut-the-rope-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cut the Rope: Magic",
+    "category": "益智",
+    "description": "加入魔法变身机制的剪绳物理解谜，可以利用不同形态通过机关。",
+    "url": "https://www.gamepix.com/play/cut-the-rope-magic",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Body Drop 3D",
+    "category": "休闲",
+    "description": "利用各种方式让3D布娃娃不断碰撞和受伤，主打搞笑物理破坏。",
+    "url": "https://www.gamepix.com/play/body-drop-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "War the Knights",
+    "category": "动作",
+    "description": "中世纪骑士大规模战斗游戏，加入阵营并使用近战或远程武器作战。",
+    "url": "https://www.gamepix.com/play/war-the-knights",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Bloxd.io",
+    "category": "多人",
+    "description": "Minecraft风多人沙盒游戏平台，包含跑酷、建造和战斗等多种模式。",
+    "url": "https://www.gamepix.com/play/bloxd-io",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Kobadoo Flags",
+    "category": "益智",
+    "description": "记住并按照正确顺序点击世界各国国旗，重点挑战短期记忆。",
+    "url": "https://www.gamepix.com/play/kobadoo-flags",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Slope Racing 3D",
+    "category": "赛车",
+    "description": "驾驶车辆在起伏巨大的3D坡道赛道高速前进并完成挑战。",
+    "url": "https://www.gamepix.com/play/slope-racing-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "10x10!",
+    "category": "益智",
+    "description": "将不同方块放入10×10棋盘并消除完整行列，适合安静思考。",
+    "url": "https://www.gamepix.com/play/10x10",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dynamons 6",
+    "category": "RPG",
+    "description": "捕捉和培养不同怪物并进行回合制战斗，体验轻量宝可梦式冒险。",
+    "url": "https://www.gamepix.com/play/dynamons-6",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Brutal Zombies",
+    "category": "射击",
+    "description": "在僵尸群中生存并持续射击敌人，适合想快速获得战斗爽感的时候。",
+    "url": "https://www.gamepix.com/play/brutal-zombies",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Yummy Tales",
+    "category": "益智",
+    "description": "农场食物主题三消游戏，通过匹配水果蔬菜完成不同关卡目标。",
+    "url": "https://www.gamepix.com/play/yummy-tales",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Kogama: The Elevator",
+    "category": "冒险",
+    "description": "在Kogama方块世界中探索神秘电梯，每一层都有不同场景和挑战。",
+    "url": "https://www.gamepix.com/play/kogama-the-elevator",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Color Pixel Art Classic",
+    "category": "休闲",
+    "description": "按照数字提示给像素格填色，慢节奏、低压力，非常适合放空。",
+    "url": "https://www.gamepix.com/play/color-pixel-art-classic",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dragon Simulator 3D",
+    "category": "模拟",
+    "description": "扮演巨龙在3D世界飞行、战斗和探索，体验操控大型幻想生物。",
+    "url": "https://www.gamepix.com/play/dragon-simulator-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Ships 3D",
+    "category": "多人",
+    "description": "多人海战游戏，与其他玩家驾驶帆船、操作火炮并争夺海域。",
+    "url": "https://www.gamepix.com/play/ships-3d",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Gulper.io",
+    "category": "多人",
+    "description": "控制发光蛇不断吃能量成长，同时避免撞到其他玩家。",
+    "url": "https://www.gamepix.com/play/gulper-io",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Little Big Snake",
+    "category": "多人",
+    "description": "多人贪吃蛇进化游戏，不断吞食资源成长并与其他蛇竞争。",
+    "url": "https://www.gamepix.com/play/little-big-snake",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Rocket Bot Royale",
+    "category": "多人",
+    "description": "利用火箭武器和物理移动进行多人坦克战，战斗节奏快速。",
+    "url": "https://www.gamepix.com/play/rocket-bot-royale",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Shell Shockers",
+    "category": "射击",
+    "description": "玩家扮演鸡蛋进行多人第一人称枪战，是非常荒诞的浏览器射击游戏。",
+    "url": "https://www.gamepix.com/play/shell-shockers",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Sploop.io",
+    "category": "多人",
+    "description": "多人采集建造生存游戏，收集资源、搭建基地并和其他玩家战斗。",
+    "url": "https://www.gamepix.com/play/sploop-io",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dinosaur Evolution",
+    "category": "休闲",
+    "description": "控制恐龙不断收集资源和进化，逐步变得更强大的轻量成长游戏。",
+    "url": "https://www.gamepix.com/play/dinosaur-evolution",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Explainable Minesweeper",
+    "category": "益智",
+    "description": "经典扫雷玩法，通过数字推断隐藏地雷的位置，适合喜欢逻辑推理的人。",
+    "url": "https://www.gamepix.com/play/explainable-minesweeper",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Merge Battle Tactics",
+    "category": "策略",
+    "description": "合并相同单位提升战力，然后根据敌方阵容安排队伍进行战斗。",
+    "url": "https://www.gamepix.com/play/merge-battle-tactics",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Nut Sort Color Puzzle Game",
+    "category": "益智",
+    "description": "把不同颜色的螺母整理到对应螺栓上，属于经典排序解谜玩法。",
+    "url": "https://www.gamepix.com/play/nut-sort-color-puzzle-game",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Like a King",
+    "category": "策略",
+    "description": "建设自己的领地并发动战斗，通过资源与军队发展扩大势力。",
+    "url": "https://www.gamepix.com/play/like-a-king",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "My Sugar Factory",
+    "category": "放置",
+    "description": "从小型生产开始不断升级糖厂设施，让产量和收益持续增长。",
+    "url": "https://www.gamepix.com/play/my-sugar-factory",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Car Crash Test",
+    "category": "驾驶",
+    "description": "驾驶不同汽车进行高速撞击和破坏，重点体验车辆损毁和物理效果。",
+    "url": "https://www.gamepix.com/play/car-crash-test",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Madalin Stunt Cars 2",
+    "category": "驾驶",
+    "description": "驾驶超级跑车在大型开放地图自由漂移、飞跃和表演特技。",
+    "url": "https://www.gamepix.com/play/madalin-stunt-cars-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Madalin Cars Multiplayer",
+    "category": "多人",
+    "description": "和其他玩家一起在开放地图驾驶跑车，自由漂移和探索。",
+    "url": "https://www.gamepix.com/play/madalin-cars-multiplayer",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Ultimate OffRoad Cars 2",
+    "category": "驾驶",
+    "description": "驾驶越野车辆挑战崎岖地图，需要控制油门和平衡通过复杂地形。",
+    "url": "https://www.gamepix.com/play/ultimate-offroad-cars-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "My Parking Lot",
+    "category": "益智",
+    "description": "规划不同车辆的移动顺序，让停车场中的汽车顺利驶出。",
+    "url": "https://www.gamepix.com/play/my-parking-lot",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Basketball Stars",
+    "category": "双人",
+    "description": "节奏快速的1v1篮球游戏，可以投篮、抢断、盖帽并与朋友对战。",
+    "url": "https://www.gamepix.com/play/basketball-stars",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Ultimate Flying Car",
+    "category": "驾驶",
+    "description": "驾驶既能在道路行驶又能飞行的汽车，自由探索大型城市。",
+    "url": "https://www.gamepix.com/play/ultimate-flying-car",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Toon Cup",
+    "category": "体育",
+    "description": "卡通角色足球游戏，组建队伍参加节奏轻快的足球比赛。",
+    "url": "https://www.gamepix.com/play/toon-cup",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Flip Trickster - Parkour Simulator",
+    "category": "体育",
+    "description": "从不同高度起跳完成后空翻并精准落地，考验动作时机。",
+    "url": "https://www.gamepix.com/play/flip-trickster-parkour-simulator",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Kopanito All-Stars Soccer",
+    "category": "体育",
+    "description": "快节奏街机足球游戏，没有复杂规则，强调射门和直接对抗。",
+    "url": "https://www.gamepix.com/play/kopanito-all-stars-soccer",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "3D Bowling",
+    "category": "体育",
+    "description": "经典3D保龄球游戏，通过控制投球方向和旋转争取全中。",
+    "url": "https://www.gamepix.com/play/3d-bowling",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Mahjong Cards",
+    "category": "棋牌",
+    "description": "把麻将消除和纸牌视觉结合起来，通过匹配开放牌面清空棋盘。",
+    "url": "https://www.gamepix.com/play/mahjong-cards",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Mahjong Alchemy",
+    "category": "棋牌",
+    "description": "炼金术主题麻将连连看，通过匹配相同符号逐步清除所有牌。",
+    "url": "https://www.gamepix.com/play/mahjong-alchemy",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Mahjong Duels",
+    "category": "棋牌",
+    "description": "带竞技元素的麻将匹配游戏，与其他玩家比拼清牌效率。",
+    "url": "https://www.gamepix.com/play/mahjong-duels",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Black and White Dimensions",
+    "category": "益智",
+    "description": "旋转3D麻将结构并寻找黑白对应牌进行匹配，考验空间观察。",
+    "url": "https://www.gamepix.com/play/black-and-white-dimensions",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Mahjong Story",
+    "category": "棋牌",
+    "description": "带关卡推进的休闲麻将匹配游戏，逐渐解锁更多布局和挑战。",
+    "url": "https://www.gamepix.com/play/mahjong-story",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Mahjongg Dimensions",
+    "category": "益智",
+    "description": "经典3D麻将消除，通过旋转立体结构寻找可以配对的方块。",
+    "url": "https://www.gamepix.com/play/mahjongg-dimensions",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dogeminer 2",
+    "category": "放置",
+    "description": "Doge梗主题点击挖矿游戏，不断获得资源、购买升级并走向太空。",
+    "url": "https://www.gamepix.com/play/dogeminer-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cat Clicker",
+    "category": "放置",
+    "description": "不断点击可爱猫咪获得资源并购买升级，几乎不需要思考。",
+    "url": "https://www.gamepix.com/play/cat-clicker",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Kitten Hide and Seek",
+    "category": "休闲",
+    "description": "躲避巨型猫咪视线并偷偷前进的可爱潜行小游戏。",
+    "url": "https://www.gamepix.com/play/kitten-hide-and-seek",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Enchanted Heroes",
+    "category": "放置",
+    "description": "控制英雄自动战斗并持续升级属性，适合喜欢低操作成长体验的玩家。",
+    "url": "https://www.gamepix.com/play/enchanted-heroes",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Muscle Clicker 2",
+    "category": "放置",
+    "description": "疯狂点击让角色训练肌肉并不断变强，主打夸张成长和数值爽感。",
+    "url": "https://www.gamepix.com/play/muscle-clicker-2",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Cave Miner",
+    "category": "放置",
+    "description": "不断挖掘洞穴获得资源并升级采矿效率，操作负担非常低。",
+    "url": "https://www.gamepix.com/play/cave-miner",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Idle Influencer Simulator",
+    "category": "模拟",
+    "description": "模拟从普通创作者成长为大网红，通过内容和升级不断增加粉丝。",
+    "url": "https://www.gamepix.com/play/idle-influencer-simulator",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Solitaire Blue",
+    "category": "棋牌",
+    "description": "经典Klondike单人纸牌接龙，适合安静、低压力地玩上一局。",
+    "url": "https://www.gamepix.com/play/solitaire-blue",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Minesweeper",
+    "category": "益智",
+    "description": "经典扫雷，通过周围数字推断地雷位置，需要逻辑但操作非常简单。",
+    "url": "https://www.gamepix.com/play/minesweeper",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "2048",
+    "category": "益智",
+    "description": "滑动数字方块，让相同数字不断合并，最终尝试得到2048。",
+    "url": "https://www.gamepix.com/play/2048",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Mahjong",
+    "category": "棋牌",
+    "description": "经典麻将配对消除，在复杂牌阵中寻找可以同时移除的相同牌。",
+    "url": "https://www.gamepix.com/play/mahjong",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Smash Karts",
+    "category": "多人",
+    "description": "多人卡丁车战斗游戏，一边驾驶一边捡武器攻击其他玩家。",
+    "url": "https://www.gamepix.com/play/smash-karts",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "1v1.LOL",
+    "category": "射击",
+    "description": "结合快速建造和第三人称枪战的1v1竞技游戏，操作上限较高。",
+    "url": "https://www.gamepix.com/play/1v1-lol",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Dino Game",
+    "category": "街机",
+    "description": "经典浏览器小恐龙跑酷，只有跳跃和躲避，适合几十秒立即开玩。",
+    "url": "https://www.gamepix.com/play/dino-game",
+    "tags": [],
+    "source": "gamepix"
+  },
+  {
+    "name": "Flappy Bird",
+    "category": "街机",
+    "description": "不断点击控制小鸟高度，从水管间穿过，规则极简但很容易上头。",
+    "url": "https://www.gamepix.com/play/flappy-bird",
+    "tags": [],
+    "source": "gamepix"
+  }
+]

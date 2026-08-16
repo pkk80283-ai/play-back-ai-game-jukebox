@@ -5,6 +5,7 @@ export type MockGame = {
   url: string
   genre: string
   duration: string
+  description?: string
 }
 
 export const mockGames: MockGame[] = [
@@ -15,5 +16,14 @@ export const mockGames: MockGame[] = [
     url: '#',
     genre: 'TOWER DEFENSE',
     duration: '08—12 MIN',
+  },
+  {
+    id: 'DEMO_GAME_001',
+    title: 'GUNS N GLORY HEROES',
+    reason: '演示模式：短时长、轻策略，适合快速进入一局。',
+    url: 'https://www.gamepix.com/play/guns-n-glory-heroes',
+    genre: 'TOWER DEFENSE',
+    duration: '10—20 MIN',
+    description: 'Defend the realm with a party of heroes in a compact fantasy strategy game.',
   },
 ]

@@ -5,6 +5,7 @@ type PixelWindowProps = {
   children: ReactNode
   className?: string
   compact?: boolean
+  onClose?: () => void
 }
 
 export function PixelWindow({
@@ -12,6 +13,7 @@ export function PixelWindow({
   children,
   className = '',
   compact = false,
+  onClose,
 }: PixelWindowProps) {
   return (
     <section
@@ -20,10 +22,14 @@ export function PixelWindow({
     >
       <header className="pixel-window__bar">
         <span>{title}</span>
-        <span className="pixel-window__controls" aria-hidden="true">
-          <i>_</i>
-          <i>□</i>
-          <i>×</i>
+        <span className="pixel-window__controls">
+          <i aria-hidden="true">_</i>
+          <i aria-hidden="true">□</i>
+          {onClose ? (
+            <button type="button" aria-label={`Close ${title}`} onClick={onClose}>×</button>
+          ) : (
+            <i aria-hidden="true">×</i>
+          )}
         </span>
       </header>
       <div className="pixel-window__body">{children}</div>

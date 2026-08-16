@@ -118,7 +118,8 @@ input:focus-visible {
   gap: 4px;
 }
 
-.pixel-window__controls i {
+.pixel-window__controls i,
+.pixel-window__controls button {
   display: grid;
   width: 25px;
   height: 25px;
@@ -129,6 +130,12 @@ input:focus-visible {
   font-style: normal;
   font-size: 1.35rem;
   line-height: 1;
+}
+
+.pixel-window__controls button {
+  padding: 0;
+  cursor: pointer;
+  font-family: inherit;
 }
 
 .pixel-window__body {
@@ -1855,5 +1862,193 @@ input:focus-visible {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
+  }
+}
+
+/* API terminal and signal states intentionally reuse the existing Win95/RPG language. */
+.terminal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 900;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgba(0, 0, 34, 0.58);
+}
+
+.terminal-window {
+  position: relative;
+  width: min(680px, 94vw);
+}
+
+.terminal-window .pixel-window__body {
+  padding: 22px;
+}
+
+.terminal-form {
+  display: grid;
+  gap: 13px;
+}
+
+.terminal-form__lead {
+  margin: 0 0 2px;
+  color: var(--pb-cobalt-dark);
+  font-family: "Press Start 2P", monospace;
+  font-size: clamp(0.7rem, 1.2vw, 0.9rem);
+  line-height: 1.6;
+}
+
+.terminal-form label {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  align-items: center;
+  gap: 12px;
+  font-size: 1.35rem;
+  letter-spacing: 0.04em;
+}
+
+.terminal-form input {
+  min-width: 0;
+  height: 42px;
+  padding: 5px 9px;
+  color: var(--pb-chartreuse);
+  border: 3px inset var(--pb-crt);
+  border-radius: 0;
+  background: var(--pb-black);
+  font-size: 1.28rem;
+}
+
+.terminal-form__notice {
+  margin: 1px 0;
+  padding: 8px 10px;
+  color: #463b00;
+  border: 1px dashed #776600;
+  background: #f2eaa0;
+  font-size: 1rem;
+  line-height: 1.1;
+}
+
+.terminal-form__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.terminal-form__actions .pixel-button {
+  min-height: 40px;
+  padding: 6px 18px;
+  font-size: 1.35rem;
+}
+
+.terminal-form__status {
+  display: block;
+  min-height: 38px;
+  padding: 8px 10px;
+  color: var(--pb-cyan);
+  background: var(--pb-black);
+  font-size: 1.2rem;
+}
+
+.terminal-form__status.is-success {
+  color: var(--pb-chartreuse);
+}
+
+.terminal-form__status.is-error {
+  color: #ff6a72;
+}
+
+.no-signal-dialog {
+  position: fixed;
+  z-index: 40;
+  top: 28%;
+  left: 50%;
+  width: min(560px, 90vw);
+  color: var(--pb-black);
+  border: 3px solid var(--pb-crt);
+  background: var(--pb-win-gray);
+  box-shadow: 0 0 0 3px var(--pb-black), 10px 10px 0 var(--pb-black);
+  transform: translateX(-50%);
+}
+
+.no-signal-dialog__bar {
+  padding: 7px 12px;
+  color: var(--pb-crt);
+  border-bottom: 2px solid var(--pb-black);
+  background: var(--pb-cobalt-dark);
+  font-size: 1.35rem;
+}
+
+.no-signal-dialog__body {
+  padding: 22px;
+}
+
+.no-signal-dialog h2,
+.search-error-window h2 {
+  margin: 0 0 12px;
+  font-family: "Press Start 2P", monospace;
+  font-size: clamp(1.2rem, 2.5vw, 2rem);
+}
+
+.no-signal-dialog p,
+.search-error-window p {
+  margin: 0 0 18px;
+  font-size: 1.4rem;
+  overflow-wrap: anywhere;
+}
+
+.no-signal-dialog__body > div,
+.search-error-window__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.no-signal-dialog .pixel-button,
+.search-error-window .pixel-button {
+  min-height: 42px;
+  padding: 6px 16px;
+  font-size: 1.35rem;
+}
+
+.search-error-window {
+  z-index: 12;
+  top: 50%;
+  left: 50%;
+  width: min(620px, 88vw);
+  transform: translate(-50%, -50%);
+}
+
+.search-error-window .pixel-window__body {
+  padding: 24px;
+}
+
+.search-mode-badge {
+  position: absolute;
+  z-index: 8;
+  right: 4%;
+  bottom: 3.5%;
+  margin: 0;
+  padding: 6px 10px;
+  color: var(--pb-black);
+  border: 2px solid var(--pb-black);
+  background: var(--pb-chartreuse);
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 640px) {
+  .terminal-overlay {
+    padding: 10px;
+  }
+
+  .terminal-form label {
+    grid-template-columns: 1fr;
+    gap: 3px;
+  }
+
+  .terminal-form__actions .pixel-button,
+  .no-signal-dialog .pixel-button,
+  .search-error-window .pixel-button {
+    flex: 1 1 auto;
   }
 }

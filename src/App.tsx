@@ -1,6 +1,7 @@
 import type { CSSProperties } from 'react'
 import { Navigate, Route, Routes } from 'react-router-dom'
 import { ScanlineOverlay } from './components/ScanlineOverlay'
+import { TerminalWindow } from './components/TerminalWindow'
 import { routes } from './config/navigation'
 import { theme } from './config/theme'
 import { DialoguePage } from './pages/DialoguePage'
@@ -37,6 +38,7 @@ export function App() {
         <Route path={routes.end} element={<EndPage />} />
         <Route path="*" element={<Navigate to={routes.landing} replace />} />
       </Routes>
+      <TerminalWindow />
       <ScanlineOverlay />
     </div>
   )

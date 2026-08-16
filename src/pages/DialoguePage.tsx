@@ -1,15 +1,20 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import { PixelButton } from '../components/PixelButton'
 import { PixelNPC } from '../components/PixelNPC'
 import { RPGDialogueBox } from '../components/RPGDialogueBox'
 import { SystemTopBar } from '../components/SystemTopBar'
 import { copy } from '../config/copy'
 import { routes } from '../config/navigation'
+import { useApiConfig } from '../context/apiConfigContext'
 import { usePlaybackSession } from '../context/playbackSessionContext'
 
 export function DialoguePage() {
   const navigate = useNavigate()
-  const { userQuery, setUserQuery } = usePlaybackSession()
+  const { config, isConfigured, openTerminal } = useApiConfig()
+  const { userQuery, setUserQuery, beginSearch, loadMockResult } = usePlaybackSession()
+  const [pendingQuery, setPendingQuery] = useState(userQuery)
+  const [showNoSignal, setShowNoSignal] = useState(false)
 
   useEffect(() => {
     function handleEscape(event: KeyboardEvent) {
@@ -24,6 +29,28 @@ export function DialoguePage() {
 
   function handleSubmit(query: string) {
     setUserQuery(query)
+    setPendingQuery(query)
+    if (!isConfigured) {
+      setShowNoSignal(true)
+      return
+    }
+    beginSearch(query, config)
+    navigate(routes.searching)
+  }
+
+  function reconnect() {
+    if (!isConfigured) {
+      openTerminal()
+      return
+    }
+    setShowNoSignal(false)
+    beginSearch(pendingQuery, config)
+    navigate(routes.searching)
+  }
+
+  function continueInDemoMode() {
+    setShowNoSignal(false)
+    loadMockResult()
     navigate(routes.searching)
   }
 
@@ -42,6 +69,21 @@ export function DialoguePage() {
         <PixelNPC />
       </div>
       <RPGDialogueBox initialQuery={userQuery} onSubmit={handleSubmit} />
+      {showNoSignal ? (
+        <section className="no-signal-dialog" role="alertdialog" aria-labelledby="no-signal-title">
+          <div className="no-signal-dialog__bar">NETWORK_ERROR.EXE</div>
+          <div className="no-signal-dialog__body">
+            <h2 id="no-signal-title">NO SIGNAL</h2>
+            <p>MODEL CONNECTION IS NOT CONFIGURED.</p>
+            <div>
+              <PixelButton variant="selected" onClick={reconnect}>
+                {isConfigured ? 'RECONNECT' : 'OPEN TERMINAL'}
+              </PixelButton>
+              <PixelButton onClick={continueInDemoMode}>USE DEMO MODE</PixelButton>
+            </div>
+          </div>
+        </section>
+      ) : null}
     </main>
   )
 }
