@@ -11,6 +11,19 @@ import { routes } from '../config/navigation'
 export function IntroPage() {
   const navigate = useNavigate()
   const [declined, setDeclined] = useState(false)
+  const [roundIndex, setRoundIndex] = useState(0)
+  const round = copy.intro.rounds[roundIndex]
+  const isFinalRound = roundIndex === copy.intro.rounds.length - 1
+
+  function handleAccept() {
+    if (isFinalRound) {
+      navigate(routes.dialogue)
+      return
+    }
+
+    setDeclined(false)
+    setRoundIndex((current) => current + 1)
+  }
 
   return (
     <main className="screen desktop-world intro-screen">
@@ -30,36 +43,49 @@ export function IntroPage() {
           </h1>
 
           <section className="incoming-panel" aria-labelledby="incoming-title">
-            <header id="incoming-title">{copy.intro.status}</header>
+            <header id="incoming-title">{round.status}</header>
+            <div className="incoming-panel__progress" aria-label={copy.intro.progressLabel}>
+              {copy.intro.rounds.map((_, index) => (
+                <span
+                  className={index <= roundIndex ? 'is-active' : ''}
+                  key={index}
+                  aria-hidden="true"
+                />
+              ))}
+              <small>{roundIndex + 1} / {copy.intro.rounds.length}</small>
+            </div>
             <div className="incoming-panel__caller">
               <PixelIcon name="question" />
-              <strong>{copy.intro.caller}</strong>
+              <strong>{round.caller}</strong>
             </div>
-            <div className="incoming-panel__copy">
-              {copy.intro.lines.map((line) => (
+            <div className="incoming-panel__copy" key={round.status}>
+              {round.lines.map((line) => (
                 <p key={line}>{line}</p>
               ))}
             </div>
             <div className="incoming-panel__actions">
-              <PixelButton variant="selected" onClick={() => navigate(routes.dialogue)}>
-                <span aria-hidden="true">▶</span> {copy.intro.answer}
+              <PixelButton variant="selected" onClick={handleAccept}>
+                <span aria-hidden="true">▶</span> {round.yes}
               </PixelButton>
               <PixelButton variant="dark" onClick={() => setDeclined(true)}>
-                {copy.intro.decline}
+                {round.no}
               </PixelButton>
             </div>
             <PixelCursor className="intro-cursor" />
           </section>
 
           {declined ? (
-            <PixelWindow title={copy.intro.declineTitle} className="decline-window" compact>
-              <p>{copy.intro.declineMessage}</p>
-              <PixelButton onClick={() => setDeclined(false)}>OK</PixelButton>
+            <PixelWindow title={round.errorTitle} className="decline-window" compact>
+              <p>{round.errorMessage}</p>
+              <PixelButton onClick={() => setDeclined(false)}>{copy.intro.errorReturn}</PixelButton>
             </PixelWindow>
           ) : null}
         </div>
       </PixelWindow>
-      <DesktopStatusBar left={copy.intro.signalStrength} right={copy.intro.ringTime} />
+      <DesktopStatusBar
+        left={`${copy.intro.signalLabel} 0${roundIndex + 1}/0${copy.intro.rounds.length}`}
+        right={copy.intro.ringTime}
+      />
     </main>
   )
 }
