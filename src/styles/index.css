@@ -307,9 +307,37 @@ input:focus-visible {
   filter: saturate(1.08) contrast(1.03);
 }
 
+.floating-desktop-item {
+  position: absolute;
+  left: var(--float-left);
+  top: var(--float-top);
+  pointer-events: none;
+  will-change: transform;
+  animation: desktop-object-float var(--float-duration) cubic-bezier(0.45, 0.05, 0.55, 0.95) var(--float-delay) infinite;
+}
+
+.floating-desktop-item--interactive {
+  pointer-events: auto;
+}
+
+.floating-desktop-item--interactive:hover,
+.floating-desktop-item--interactive:focus-within {
+  animation-play-state: paused;
+}
+
+.floating-desktop-item > .pixel-window {
+  position: relative;
+  inset: auto;
+}
+
+.floating-decorations {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+
 .landing-setup {
-  top: 4%;
-  left: 5%;
   width: min(30vw, 430px);
 }
 
@@ -358,9 +386,12 @@ input:focus-visible {
 }
 
 .landing-cursor {
-  position: absolute;
-  right: -39px;
-  bottom: -42px;
+  position: static;
+}
+
+.landing-cursor-float {
+  width: 76px;
+  height: 96px;
 }
 
 .landing-descriptor {
@@ -384,11 +415,9 @@ input:focus-visible {
 
 .desktop-icons {
   position: absolute;
-  bottom: 76px;
-  left: 5%;
+  inset: 0 0 52px;
   z-index: 4;
-  display: flex;
-  gap: clamp(16px, 3vw, 48px);
+  pointer-events: none;
 }
 
 .desktop-icon {
@@ -405,6 +434,10 @@ input:focus-visible {
   font-size: 1.15rem;
   letter-spacing: 0.03em;
   text-shadow: 2px 2px 0 var(--pb-black);
+  transition:
+    color var(--pb-fast) steps(2),
+    transform var(--pb-fast) steps(2),
+    background var(--pb-fast) steps(2);
 }
 
 .desktop-icon .pixel-icon {
@@ -414,14 +447,120 @@ input:focus-visible {
 }
 
 .desktop-icon:hover .pixel-icon {
-  transform: translateY(-4px);
+  transform: translateY(-2px);
+}
+
+.desktop-icon:hover,
+.desktop-icon:focus-visible {
+  color: var(--pb-chartreuse);
+  background: rgba(20, 56, 212, 0.68);
+  outline: 1px dotted var(--pb-crt);
+  outline-offset: 2px;
+  transform: translate(-1px, -1px);
 }
 
 .game-preview-window {
-  right: 5%;
-  bottom: 86px;
   width: min(31vw, 470px);
 }
+
+.floating-decoration {
+  opacity: 0.9;
+  filter: drop-shadow(3px 3px 0 rgba(0, 0, 0, 0.58));
+}
+
+.pixel-float-star {
+  display: block;
+  width: 36px;
+  height: 36px;
+  background: var(--pb-chartreuse);
+  clip-path: polygon(50% 0, 61% 35%, 100% 50%, 61% 62%, 50% 100%, 38% 62%, 0 50%, 38% 35%);
+  box-shadow: inset 0 0 0 3px var(--pb-crt);
+}
+
+.pixel-disc {
+  position: relative;
+  display: grid;
+  width: 54px;
+  height: 54px;
+  place-items: center;
+  border: 4px solid var(--pb-black);
+  border-radius: 50%;
+  background:
+    conic-gradient(from 30deg, var(--pb-cyan), var(--pb-crt), var(--pb-magenta), var(--pb-chartreuse), var(--pb-cyan));
+  image-rendering: pixelated;
+}
+
+.pixel-disc i {
+  width: 13px;
+  height: 13px;
+  border: 3px solid var(--pb-black);
+  border-radius: 50%;
+  background: var(--pb-cobalt);
+}
+
+.pixel-floppy {
+  position: relative;
+  display: block;
+  width: 56px;
+  height: 62px;
+  border: 4px solid var(--pb-black);
+  background: var(--pb-cobalt-dark);
+  box-shadow: inset -5px -5px 0 #07156d;
+}
+
+.pixel-floppy::before {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 31px;
+  height: 23px;
+  content: "";
+  border: 3px solid var(--pb-black);
+  border-top: 0;
+  background: var(--pb-win-gray);
+}
+
+.pixel-floppy i {
+  position: absolute;
+  right: 7px;
+  bottom: 7px;
+  left: 7px;
+  height: 22px;
+  border: 3px solid var(--pb-black);
+  background: var(--pb-crt);
+}
+
+.pixel-floppy b {
+  position: absolute;
+  right: 11px;
+  bottom: 12px;
+  width: 8px;
+  height: 12px;
+  background: var(--pb-magenta);
+}
+
+.pixel-loading {
+  display: grid;
+  width: 46px;
+  height: 46px;
+  grid-template-columns: repeat(2, 12px);
+  grid-template-rows: repeat(2, 12px);
+  align-content: center;
+  justify-content: center;
+  gap: 5px;
+  border: 3px solid var(--pb-crt);
+  background: var(--pb-cobalt-dark);
+  box-shadow: 4px 4px 0 var(--pb-black);
+}
+
+.pixel-loading i {
+  background: var(--pb-chartreuse);
+  animation: loading-block 1.3s steps(4, end) infinite;
+}
+
+.pixel-loading i:nth-child(2) { animation-delay: -0.95s; }
+.pixel-loading i:nth-child(3) { animation-delay: -0.3s; }
+.pixel-loading i:nth-child(4) { animation-delay: -0.62s; }
 
 .game-preview-window .pixel-window__body {
   padding: 10px;
@@ -1432,6 +1571,26 @@ input:focus-visible {
   50% { opacity: 0.25; }
 }
 
+@keyframes desktop-object-float {
+  0%, 100% {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+  24% {
+    transform: translate3d(calc(var(--float-x) * 0.74), calc(var(--float-y) * -0.48), 0) rotate(var(--float-rotation));
+  }
+  53% {
+    transform: translate3d(calc(var(--float-x) * -0.42), calc(var(--float-y) * 0.82), 0) rotate(calc(var(--float-rotation) * -0.62));
+  }
+  78% {
+    transform: translate3d(calc(var(--float-x) * 0.36), calc(var(--float-y) * 0.24), 0) rotate(calc(var(--float-rotation) * 0.38));
+  }
+}
+
+@keyframes loading-block {
+  0%, 100% { opacity: 0.22; }
+  45% { opacity: 1; }
+}
+
 @keyframes mini-player {
   50% { transform: translateX(34px); }
 }
@@ -1489,7 +1648,7 @@ input:focus-visible {
     width: 36vw;
   }
 
-  .desktop-icon:nth-child(4) {
+  .desktop-shortcut:nth-child(4) {
     display: none;
   }
 
@@ -1536,9 +1695,12 @@ input:focus-visible {
   }
 
   .landing-setup {
-    top: 2.5%;
-    left: 4%;
     width: 69vw;
+  }
+
+  .landing-setup-float {
+    --float-left: 4%;
+    --float-top: 2.5%;
   }
 
   .landing-setup .setup-message {
@@ -1582,9 +1744,22 @@ input:focus-visible {
   }
 
   .desktop-icons {
-    bottom: 68px;
-    left: 4%;
-    gap: 10px;
+    inset: 0 0 50px;
+  }
+
+  .desktop-shortcut--computer {
+    --float-left: 4%;
+    --float-top: 84%;
+  }
+
+  .desktop-shortcut--folder {
+    --float-left: 23%;
+    --float-top: 86%;
+  }
+
+  .desktop-shortcut--joystick {
+    --float-left: 42%;
+    --float-top: 83%;
   }
 
   .desktop-icon {
@@ -1597,12 +1772,22 @@ input:focus-visible {
     height: 42px;
   }
 
-  .desktop-icon:nth-child(n + 4) {
+  .desktop-shortcut:nth-child(n + 4) {
     display: none;
   }
 
-  .game-preview-window {
+  .floating-desktop-item--hide-small {
     display: none;
+  }
+
+  .floating-decoration--star {
+    --float-left: 87%;
+    --float-top: 39%;
+  }
+
+  .pixel-float-star {
+    width: 28px;
+    height: 28px;
   }
 
   .desktop-statusbar {
@@ -1808,8 +1993,8 @@ input:focus-visible {
 }
 
 @media (max-height: 700px) and (min-width: 761px) {
-  .landing-setup {
-    top: 2%;
+  .landing-setup-float {
+    --float-top: 2%;
   }
 
   .landing-hero {
@@ -1824,12 +2009,18 @@ input:focus-visible {
     margin-top: 14px;
   }
 
-  .desktop-icons {
-    bottom: 67px;
+  .desktop-shortcut--computer,
+  .desktop-shortcut--joystick {
+    --float-top: 80%;
   }
 
-  .game-preview-window {
-    bottom: 67px;
+  .desktop-shortcut--folder,
+  .desktop-shortcut--document {
+    --float-top: 82%;
+  }
+
+  .game-preview-float {
+    --float-top: 48%;
   }
 
   .npc-stage {
@@ -1862,6 +2053,16 @@ input:focus-visible {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
+  }
+
+  .floating-desktop-item {
+    animation: none !important;
+    transform: none !important;
+  }
+
+  .pixel-loading i {
+    animation: none !important;
+    opacity: 0.72;
   }
 }
 
